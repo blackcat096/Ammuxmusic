@@ -19,7 +19,7 @@ async def cbstart(_, query: CallbackQuery):
         f"""✨ **Welcome [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) !**\n
 💭 **[{BOT_NAME}](https://t.me/{BOT_USERNAME}) [🧐](https://telegra.ph/file/f4e1c2ebc7a14110faf47.jpg)**
 
- **ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʀᴏʙᴏᴛ
+ **ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ ᴠɪᴅᴇᴏ ʀᴏʙᴏᴛ
 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣» ᴏᴘ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ. 
