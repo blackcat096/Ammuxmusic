@@ -56,7 +56,7 @@ async def start_(client: Client, message: Message):
         f"""✨ **Welcome {message.from_user.mention()} !**\n
 💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}[🧐](https://telegra.ph/file/f4e1c2ebc7a14110faf47.jpg)]**
 
-ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʀᴏʙᴏᴛ
+ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ ᴠɪᴅᴇᴏ ʀᴏʙᴏᴛ
 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣» ᴏᴘ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ. 
