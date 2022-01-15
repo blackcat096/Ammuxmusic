@@ -51,7 +51,7 @@ def song(_, message):
         duration = results[0]["duration"]
 
     except Exception as e:
-        m.edit("❌ song not found.\n\nplease give a valid song name.")
+        m.edit("❌ sᴏɴɢ ɴᴏᴛ ғᴏᴜɴᴅ.\n\n ᴀʀᴇʏ ɴɪʙʙᴀ ɴᴀᴍᴇ ᴄʀᴛ ᴋᴏᴛᴛᴜ.")
         print(str(e))
         return
     m.edit("📥 downloading file...")
